@@ -16,15 +16,42 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # 🐍 1. Build Snake
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sajithmadusha
+          github_user_name: sajith.jayarathna
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 🚀 2. Moving Tech Icons SVG
+      - name: generate moving tech icons
+        run: |
+          mkdir -p dist
+          echo '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
+            <style>
+              .marquee {
+                font-family: sans-serif;
+                display: flex;
+                width: 200%;
+                animation: scroll 20s linear infinite;
+              }
+              @keyframes scroll {
+                0% { transform: translateX(0); }
+                100% { transform: translateX(-50%); }
+              }
+            </style>
+            <foreignObject width="800" height="100">
+              <div xmlns="http://www.w3.org/1999/xhtml" class="marquee">
+                <img src="https://skillicons.dev/icons?i=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,py,react" style="padding-right: 50px;" />
+                <img src="https://skillicons.dev/icons?i=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,py,react" style="padding-right: 50px;" />
+              </div>
+            </foreignObject>
+          </svg>' > dist/moving-tech-icons.svg
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # 📤 3. Update output
+      - name: push files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
