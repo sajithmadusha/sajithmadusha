@@ -20,7 +20,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sajithmadusha
+          github_user_name: sajith.jayarathna
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -29,23 +29,67 @@ jobs:
       - name: generate moving tech icons
         run: |
           mkdir -p dist
-          echo '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
+          echo '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60">
             <style>
-              .marquee {
-                font-family: sans-serif;
+              .marquee-box {
+                width: 100%;
+                overflow: hidden;
+              }
+              .marquee-content {
                 display: flex;
-                width: 200%;
-                animation: scroll 20s linear infinite;
+                width: max-content;
+                animation: scroll 25s linear infinite;
+              }
+              .icon-group {
+                display: flex;
+                gap: 15px;
+                padding-right: 15px;
+              }
+              .icon-group img {
+                width: 40px;
+                height: 40px;
               }
               @keyframes scroll {
                 0% { transform: translateX(0); }
                 100% { transform: translateX(-50%); }
               }
             </style>
-            <foreignObject width="800" height="100">
-              <div xmlns="http://www.w3.org/1999/xhtml" class="marquee">
-                <img src="https://skillicons.dev/icons?i=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,py,react" style="padding-right: 50px;" />
-                <img src="https://skillicons.dev/icons?i=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,py,react" style="padding-right: 50px;" />
+            <foreignObject width="800" height="60">
+              <div xmlns="http://www.w3.org/1999/xhtml" class="marquee-box">
+                <div class="marquee-content">
+                  <div class="icon-group">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+                  </div>
+                  <div class="icon-group">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+                  </div>
+                </div>
               </div>
             </foreignObject>
           </svg>' > dist/moving-tech-icons.svg
@@ -58,3 +102,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
