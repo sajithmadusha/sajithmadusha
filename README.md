@@ -45,7 +45,7 @@
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 15px;">🛠️ Languages and Tools</p>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=1&line1=bootstrap,c,css3,figma,flutter,git,html5,java,javascript,mysql,php,python,react;&animation=marquee" alt="My Tech Stack" width="800" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,python,react&animation=marquee&theme=dark" alt="My Tech Stack" width="800" />
 </div>
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Connect with me:</p>
