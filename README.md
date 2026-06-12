@@ -33,6 +33,11 @@
   </tr>
 </table>
 
+<div align="center">
+## 🐍 My Contribution Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sajithmadusha/sajithmadusha/output/github-contribution-grid-snake.svg)
+</div>
+
 <p style="font-size: 1.5em; font-weight: bold;">Connect with me:</p>
 
 <p align="left">
