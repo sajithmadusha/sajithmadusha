@@ -34,8 +34,7 @@
 </table>
 
 <div align="center">
-## 🐍 My Contribution Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/sajithmadusha/sajithmadusha/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://platane.github.io/snk/github-contribution-grid-snake.svg?user=sajithmadusha&palette=github-dark)
 </div>
 
 <p style="font-size: 1.5em; font-weight: bold;">Connect with me:</p>
