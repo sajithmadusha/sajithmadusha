@@ -1,11 +1,15 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sajithmadusha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <br />
   <img src="https://github.com/sajithmadusha/sajithmadusha/blob/main/image_7a5c16.png?raw=true" alt="Github Profile Viewer" width="150" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=sajithmadusha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-# Hellow World👋
-# I'm Madushan Jayarathna
+<div align="center">
+
+## Hello World 👋
+# I'm Madushan Jayarathna 
+
+</div>
 
 ## GitHub Stats
 
