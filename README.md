@@ -4,17 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=sajithmadusha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<div>
+<div align="center">
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&vCenter=true&pause=1000&width=1000&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;I’m+interested+in+Cyber+Security+,+Network+and+IOT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&vCenter=true&pause=1000&width=1000&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;I’m+interested+in+Cyber+Security+,+Network+and+IOT" alt="Typing SVG" />
   </a>
 </p>
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">🐍 My Contribution Snake</p>
-  <img src="https://raw.githubusercontent.com/sajith.jayarathna/sajithmadusha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/sajithmadusha/sajithmadusha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">GitHub Stats</p>
@@ -44,29 +43,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithmadusha&theme=github-dark&area=true" alt="Contribution Graph" />
 </div>
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Connect with me:</p>
+<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
+  <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 15px;">🛠️ Languages and Tools</p>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=1&line1=bootstrap,c,css3,figma,flutter,git,html5,java,javascript,mysql,php,python,react;&animation=marquee" alt="My Tech Stack" width="800" />
+</div>
 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Connect with me:</p>
 <p align="left">
-  <a href="https://linkedin.com/in/sajithmadusha" target="blank">
+  <a href="https://linkedin.com/in/sajith.jayarathna" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Languages and Tools:</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
