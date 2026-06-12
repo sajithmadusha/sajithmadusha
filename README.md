@@ -4,14 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=sajithmadusha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<div align="center">
-
-## Hello World 👋
-# I'm Madushan Jayarathna 
-
+<div>
+<p align="center">
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=1000&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;I’m+interested+in+Cyber+Security+,+Network+and+IOT" alt="Typing SVG" />
+  </a>
+</p>
 </div>
 
-## GitHub Stats
+<p style="font-size: 10.0em; font-weight: bold; margin-bottom: 5px;">GitHub Stats</p>
 
 <table border="0">
   <tr>
@@ -32,9 +33,7 @@
   </tr>
 </table>
 
----
-
-## Connect with me:
+<p style="font-size: 1.5em; font-weight: bold;">Connect with me:</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/sajithmadusha" target="blank">
@@ -42,9 +41,7 @@
   </a>
 </p>
 
----
-
-## Languages and Tools:
+<p style="font-size: 1.5em; font-weight: bold;">Languages and Tools:</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
