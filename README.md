@@ -7,13 +7,18 @@
 <div>
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=1000&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;I’m+interested+in+Cyber+Security+,+Network+and+IOT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&vCenter=true&pause=1000&width=1000&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;I’m+interested+in+Cyber+Security+,+Network+and+IOT" alt="Typing SVG" />
   </a>
 </p>
 </div>
 
-<p style="font-size: 10.0em; font-weight: bold; margin-bottom: 5px;">GitHub Stats</p>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg?user=sajith.jayarathna&palette=github-dark" alt="GitHub Contribution Snake" />
+</div>
 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">GitHub Stats</p>
+
+<div>
 <table border="0">
   <tr>
     <td>
@@ -32,12 +37,9 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-![GitHub Contribution Snake](https://platane.github.io/snk/github-contribution-grid-snake.svg?user=sajithmadusha&palette=github-dark)
 </div>
 
-<p style="font-size: 1.5em; font-weight: bold;">Connect with me:</p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Connect with me:</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/sajithmadusha" target="blank">
@@ -45,7 +47,7 @@
   </a>
 </p>
 
-<p style="font-size: 1.5em; font-weight: bold;">Languages and Tools:</p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Languages and Tools:</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
