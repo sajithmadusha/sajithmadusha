@@ -13,7 +13,8 @@
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg?user=sajith.jayarathna&palette=github-dark" alt="GitHub Contribution Snake" />
+  <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">🐍 My Contribution Snake</p>
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg?user=sajith.jayarathna&palette=github-dark&v=102" alt="GitHub Contribution Snake" />
 </div>
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">GitHub Stats</p>
