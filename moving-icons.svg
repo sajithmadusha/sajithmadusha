@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60">
+  <style>
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .marquee-box {
+      width: 100%;
+      overflow: hidden;
+    }
+    .marquee-content {
+      display: flex;
+      width: max-content;
+      animation: scroll 20s linear infinite;
+    }
+    .icon-group {
+      display: flex;
+    }
+    .icon-group img {
+      height: 50px;
+      padding-right: 10px;
+    }
+  </style>
+  <foreignObject width="800" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="marquee-box">
+      <div class="marquee-content">
+        <div class="icon-group">
+          <img src="https://skillicons.dev/icons?i=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,py,react" />
+        </div>
+        <div class="icon-group">
+          <img src="https://skillicons.dev/icons?i=bootstrap,c,css,figma,flutter,git,html,java,js,mysql,php,py,react" />
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
