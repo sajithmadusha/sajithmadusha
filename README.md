@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Madushan%20Jayarathna&fontSize=70&animation=fadeIn" width="100%" />
+
 <div align="right">
   <img src="https://github.com/sajithmadusha/sajithmadusha/blob/main/image_7a5c16.png?raw=true" alt="Github Profile Viewer" width="150" />
   <br />
@@ -7,7 +9,7 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&vCenter=true&pause=1000&width=1000&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;I’m+interested+in+Cyber+Security+,+Network+and+IOT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&vCenter=true&pause=1000&width=1500&height=100&lines=Hello+World+!+👋;I'm+Madushan+Jayarathna;currently+working+on+exciting+software+development+projects;learning+new+technologies+and+expanding+my+tech+stack+every+day;Ask+me+about+Web+Development+Mobile+Apps+or+UI-UX+Design;I+love+solving+complex+logical+problems+and+writing+clean+code!;I’m+interested+in+Cyber+Security+,+Network+and+IOT;" alt="Typing SVG" />
   </a>
 </p>
 </div>
@@ -48,9 +50,12 @@
   <img src="moving-icons.svg?v=4" alt="Moving Tech Stack" width="100%" />
 </div>
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Connect with me:</p>
-<p align="left">
-  <a href="https://linkedin.com/in/sajith.jayarathna" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center">
+  <a href="https://linkedin.com/in/Temp User Name" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:Temp email" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
