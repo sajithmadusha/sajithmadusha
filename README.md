@@ -14,7 +14,7 @@
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">🐍 My Contribution Snake</p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajith.jayarathna&theme=github-dark&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithmadusha&theme=github-dark&area=true" alt="Contribution Graph" />
 </div>
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">GitHub Stats</p>
