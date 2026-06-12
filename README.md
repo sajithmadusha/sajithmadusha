@@ -45,7 +45,7 @@
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 15px;">🛠️ Languages and Tools</p>
-  <img src="moving-icons.svg?v=3" alt="Moving Tech Stack" width="100%" />
+  <img src="moving-icons.svg?v=4" alt="Moving Tech Stack" width="100%" />
 </div>
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 25px; margin-bottom: 10px;">Connect with me:</p>
